@@ -1,0 +1,6 @@
+org\xdemo\example\websocket\websocket\MyWebSocketHandler$1.class
+org\xdemo\example\websocket\entity\User.class
+org\xdemo\example\websocket\websocket\WebSocketConfig.class
+org\xdemo\example\websocket\websocket\HandShake.class
+org\xdemo\example\websocket\entity\Message.class
+org\xdemo\example\websocket\websocket\MyWebSocketHandler.class
